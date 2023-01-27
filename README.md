@@ -22,7 +22,7 @@ This page presents documents pertaining to my work in the Programming Languages 
   [Haskell Home Page](https://www.haskell.org/) | [Haskell Wiki](https://en.wikipedia.org/wiki/Haskell) | [Haskell Video Tutorial](https://www.youtube.com/watch?v=02_H3LjqMr8)
 * **Rust**
 
-  [Rust Home Page](https://www.rust-lang.org/) | [Rust Wiki](https://en.wikipedia.org/wiki/Rust_(programming_language)) | [Rust Video Tutorial](https://www.youtube.com/watch?v=MsocPEZBd-M)
+  [Rust Home Page](https://www.rust-lang.org/) | [Rust Wiki](https://en.wikipedia.org/wiki/Rust_(programming_language)) | [Rust Video Tutorial](https://www.youtube.com/watch?v=ygL_xcavzQ4)
 * **Programming Languages**
 
   [Programming Language Wiki](https://en.wikipedia.org/wiki/Programming_language) | [List of Programming Languages Wiki](https://en.wikipedia.org/wiki/List_of_programming_languages)
