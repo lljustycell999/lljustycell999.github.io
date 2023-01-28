@@ -8,7 +8,7 @@ This website will provide documents that represent my work in the CSC 344 (Progr
 ## **Programming Assignments and Problem Sets** 
 
 * "Web Work Site" Assignment: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/sample_work_site/Other_Assignments/Csc344_WebWorkSite_Assignment.pdf)
-* "Survey of Programming Languages" Assignment: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/sample_work_site/Other_Assignments/Csc344_Survey_Assignment.pdf) & Solution (When completed, make a link)
+* "Survey of Programming Languages" Assignment: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/sample_work_site/Other_Assignments/Csc344_Survey_Assignment.pdf) & [Solution](https://drive.google.com/file/d/1bTf6m2ktM2x1N1wdB4N4BmtszdObQ5-T/view?usp=share_link)
 * ...and more coming soon!
 
 ## **Other Sites and Materials**
