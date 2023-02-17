@@ -11,6 +11,7 @@ This website will provide documents that represent my work in the CSC 344 (Progr
 * "Survey of Programming Languages" Assignment: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/sample_work_site/Other_Assignments/Csc344_Survey_Assignment.pdf) & [Solution](https://drive.google.com/file/d/1tj3x3EWC0L9gXCIxXeaeaK2XbbwWXSV_/view?usp=share_link)
 * Racket Assignment #1: Getting Acquainted with Racket/DrRacket + LEL Sentence Generation: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Racket_Assignment_1.pdf) & [Solution](https://drive.google.com/file/d/1pRjR5AzW-vSZWP-uCrJBgWRVH4WIgAob/view?usp=share_link)
 * "BNF" Assignment: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_BNF_Assignment.pdf) & [Solution](https://drive.google.com/file/d/11p6O3BlgB8G2NS16DCJm7y8Y6oseHBWj/view?usp=share_link)
+* Racket Assignment #2: Interactions, Definitions, Applications: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Racket_Assignment_2.pdf) & [Solution](https://drive.google.com/file/d/1okA7buBk8Vgn44IXOvCoj5VXfwjxxf4r/view?usp=share_link)
 * ...and more coming soon!
 
 ## **Other Sites and Materials**
