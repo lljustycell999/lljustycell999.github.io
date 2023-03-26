@@ -14,6 +14,7 @@ This website will provide documents that represent my work in the CSC 344 (Progr
 * Racket Assignment #2: Interactions, Definitions, Applications: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Racket_Assignment_2.pdf) & [Solution](https://drive.google.com/file/d/1okA7buBk8Vgn44IXOvCoj5VXfwjxxf4r/view?usp=share_link)
 * Racket Assignment #3: Recursions in Racket: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Racket_Assignment_3.pdf) & [Solution](https://drive.google.com/file/d/1S5uECi6hQQoS1gpx5iLo9ufMqfirbUbM/view?usp=share_link)
 * Racket Assignment #4: Lambda and Basic Lisp: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Racket_Assignment_4.pdf) & [Solution](https://drive.google.com/file/d/11JixE5qQAfn4vZYPMR0Ob9Gdf9s5qEgZ/view?usp=share_link)
+* Racket Assignment #5: RLP and HoFs: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Racket_Assignment_5.pdf) & [Solution](https://drive.google.com/file/d/1GOr-0nvXdC_E7bGkjPyNIq8wbUyZ55wA/view?usp=share_link)
 * ...and more coming soon!
 
 ## **Other Sites and Materials**
