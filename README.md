@@ -16,6 +16,7 @@ This website will provide documents that represent my work in the CSC 344 (Progr
 * Racket Assignment #4: Lambda and Basic Lisp: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Racket_Assignment_4.pdf) & [Solution](https://drive.google.com/file/d/11JixE5qQAfn4vZYPMR0Ob9Gdf9s5qEgZ/view?usp=share_link)
 * Racket Assignment #5: RLP and HoFs: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Racket_Assignment_5.pdf) & [Solution](https://drive.google.com/file/d/1GOr-0nvXdC_E7bGkjPyNIq8wbUyZ55wA/view?usp=share_link)
 * Prolog Assignment #1: Various Computations: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Prolog_Assignment_1.pdf) & [Solution](https://drive.google.com/file/d/1xWsa9Hxh4u5AWbz8iNNOCRRaNN0tuDE0/view?usp=share_link)
+* Prolog Assignment #2: A Favorite Pokemon KB plus Simple List Processing Exercises: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Prolog_Assignment_2.pdf) & [Solution](https://drive.google.com/file/d/10dqYMH3HjPF8G1afjQOeMRRyneJIvGWn/view?usp=share_link)
 * ...and more coming soon!
 
 ## **Other Sites and Materials**
