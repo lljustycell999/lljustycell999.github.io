@@ -18,7 +18,7 @@ This website will provide documents that represent my work in the CSC 344 (Progr
 * Prolog Assignment #1: Various Computations: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Prolog_Assignment_1.pdf) & [Solution](https://drive.google.com/file/d/1xWsa9Hxh4u5AWbz8iNNOCRRaNN0tuDE0/view?usp=share_link)
 * Prolog Assignment #2: A Favorite Pokemon KB plus Simple List Processing Exercises: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Prolog_Assignment_2.pdf) & [Solution](https://drive.google.com/file/d/10dqYMH3HjPF8G1afjQOeMRRyneJIvGWn/view?usp=share_link)
 * Haskell Assignment: Various Computions: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/Csc344_Haskell_Assignment.pdf) & [Solution](https://drive.google.com/file/d/1JZbIlAers5bsYal2ehXAE7XbUK0HXKtO/view?usp=share_link)
-* ...and more coming soon!
+* Rust Problem Set: Memory Management / Perspectives on Rust: [Specification](https://www.cs.oswego.edu/~blue/course_pages/2023/Spring/Csc344/selected_course_documents/Csc344_Assignments/PL_Rust_MM_Assignment.pdf) & [Solution](https://drive.google.com/file/d/1-zJPoGED3NPULCg2FeDkm7yD5xxZlzYd/view?usp=share_link)
 
 ## **Other Sites and Materials**
 
